@@ -1,6 +1,6 @@
 # Ambulance App
 
-This is android based mobile application for ambulance service like uber
+Android based mobile application for ambulance service like uber
 
 # Technologies
 
